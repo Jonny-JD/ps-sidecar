@@ -1,10 +1,6 @@
-# ps-sidecar
+Repo for **The Kubernetes Book**
 
-Remember to fork the repo and **make all changes to your fork**. You cannot make changes to this repo (I'm not accepting PRs).
+**Disclaimer:** I'll hold my hand up here... I forgot to create the repo when I published the Nov 2018 edition of the book. #Doh!
+As a result, I haven't had a chance to check the examples in here, but will do that ASAP!
 
-Simple HTML config used for K8s sidecar demos
-
-## References
-
-- Pluralsight vols and multi-container Pods video course
-- The Kubernetes Book (2021 and 2022 editions)
+Hope you're enjoying the book!
